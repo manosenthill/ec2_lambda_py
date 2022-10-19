@@ -11,7 +11,7 @@ based on [boto3 documentation](https://boto3.amazonaws.com/v1/documentation/api/
 ## IAM Permission
  lambda should have permission to transact with EC2. So add enough permission in IAM
   
- ![IAM_lambda_policy_permission](lambda_permission.jpg)
+ ![IAM_lambda_policy_permission](/docs/lambda_ec2_permission.png)
 ## Test
 
 Start EC2
